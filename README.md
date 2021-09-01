@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Wathanan Lucas!
 
-  - 🔭 Estou fazendo o tecnólogo em ADS;
-  - 🌱 Estou estudando front-end no momento, mas quero ser full-stack;
+  - 👨🏽‍💻 Estou fazendo o tecnólogo em ADS - Fatec Ipiranga;
+  - ✅ Técnco em Desenvolvimento de Sistemas - Etec de Mauá;
+  - 🚀 Estou estudando front-end no momento, mas quero ser full-stack;
   - ⚡ Nas horas vagas gosto de tocar guitarra, e jogar video game.
 
   <div>

@@ -3,7 +3,7 @@
   - 👨🏽‍💻 Estou fazendo o tecnólogo em ADS - Fatec Ipiranga;
   - ✅ Técnco em Desenvolvimento de Sistemas - Etec de Mauá;
   - 🚀 Estou estudando front-end no momento, mas quero ser full-stack;
-  - ⚡ Nas horas vagas gosto de tocar guitarra, e jogar video game.
+  - ⚡ Nas horas vagas gosto de tocar guitarra, jogar futebol e jogar video game.
 
   <div>
     <a href="https://github.com/wathanan-lucas">

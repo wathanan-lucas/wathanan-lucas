@@ -30,8 +30,5 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  ##
-  <p align="center"> Quantidade de visitas, desde 02/09/2021 🕵🏽‍♂️</p>
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/wathanan-lucas/count.svg" /></p>
-  <p align="center"> Volte sempre! 😁</p>
-
+  ## Volte Sempre!
+ 
